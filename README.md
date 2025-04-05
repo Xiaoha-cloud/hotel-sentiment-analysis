@@ -69,8 +69,6 @@ Please prepare the following files manually before running the notebooks:
 - `data/train_labels.npy`
 - `data/embedding_matrix.npy`
 
-To generate them, refer to notebook `1_text_preprocessing.ipynb`.
-
 ## Included
 
 - `stopwords.txt` — A list of common Chinese stopwords for LDA topic filtering.
