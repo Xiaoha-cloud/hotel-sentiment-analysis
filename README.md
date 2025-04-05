@@ -74,5 +74,3 @@ Please prepare the following files manually before running the notebooks:
 - `stopwords.txt` — A list of common Chinese stopwords for LDA topic filtering.
 
 
-
-Note: Due to data licensing, the actual review texts (`positive_samples.txt`, `negative_samples.txt`) and `.npy` files are not included in this repository. Please refer to `data/README.md` for guidance on how to prepare them.
