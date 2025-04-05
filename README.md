@@ -48,7 +48,7 @@ This folder is used to store datasets and preprocessed resources for training an
 ### 1. Chinese Hotel Review Corpus
 A portion of the sentiment data was derived from the publicly available hotel review corpus by Professor **Tan Songbo**. This dataset has been widely used for sentiment analysis research in Chinese NLP.  
 Original corpus reference:
-- [http://nlp.fudan.edu.cn/data/](http://nlp.fudan.edu.cn/data/) (or local academic mirror)
+- [[http://nlp.fudan.edu.cn/data/](http://nlp.fudan.edu.cn/data/](https://tianchi.aliyun.com/dataset/6550)) (or local academic mirror)
 
 ### 2. Pretrained Word Embeddings
 This project uses the **Zhihu Bigram word vectors** (300-dimensional) provided by the open-source repository:
