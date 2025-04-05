@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# VSCode / Jupyter / system
+.vscode/
+.DS_Store
+logs/
+
+# Data & checkpoints (private or large files)
+*.npy
+*.h5
+*.keras
+*.txt
+
+# Do NOT track embeddings or personal samples
+embeddings/
+positive_samples.txt
+negative_samples.txt
