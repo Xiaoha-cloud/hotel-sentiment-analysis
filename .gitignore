@@ -6,13 +6,11 @@ __pycache__/
 # VSCode / Jupyter / system
 .vscode/
 .DS_Store
-logs/
 
 # Data & checkpoints (private or large files)
 *.npy
 *.h5
 *.keras
-*.txt
 
 # Do NOT track embeddings or personal samples
 embeddings/

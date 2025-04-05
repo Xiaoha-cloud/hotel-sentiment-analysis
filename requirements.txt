@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+jieba
+gensim
+scikit-learn
+tensorflow==2.13.0
+keras
+pyldavis
+
