@@ -48,7 +48,7 @@ This folder is used to store datasets and preprocessed resources for training an
 ### 1. Chinese Hotel Review Corpus
 A portion of the sentiment data was derived from the publicly available hotel review corpus by Professor **Tan Songbo**. This dataset has been widely used for sentiment analysis research in Chinese NLP.  
 Original corpus reference:
-- [http://nlp.fudan.edu.cn/data/](http://nlp.fudan.edu.cn/data/) (or local academic mirror)
+- [[http://nlp.fudan.edu.cn/data/](http://nlp.fudan.edu.cn/data/](https://tianchi.aliyun.com/dataset/6550)) (or local academic mirror)
 
 ### 2. Pretrained Word Embeddings
 This project uses the **Zhihu Bigram word vectors** (300-dimensional) provided by the open-source repository:
@@ -69,12 +69,8 @@ Please prepare the following files manually before running the notebooks:
 - `data/train_labels.npy`
 - `data/embedding_matrix.npy`
 
-To generate them, refer to notebook `1_text_preprocessing.ipynb`.
-
 ## Included
 
 - `stopwords.txt` — A list of common Chinese stopwords for LDA topic filtering.
 
 
-
-Note: Due to data licensing, the actual review texts (`positive_samples.txt`, `negative_samples.txt`) and `.npy` files are not included in this repository. Please refer to `data/README.md` for guidance on how to prepare them.
