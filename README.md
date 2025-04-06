@@ -6,7 +6,7 @@ This project investigates sentiment analysis of Chinese hotel reviews using deep
 
 The dataset combines:
 - Publicly available hotel review data provided by Professor Tan Songbo
-- Privately curated samples (`positive_samples.txt`, `negative_samples.txt`) containing user-generated reviews (not published due to licensing)
+- Privately curated samples containing user-generated reviews (not published due to licensing)
 
 In total, 4,000 labeled reviews were used: 2,000 positive and 2,000 negative.
 
